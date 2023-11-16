@@ -1,0 +1,5 @@
+node_modules/
+# Ignore .env file in the backend
+backend/.env
+# Ignore .env file in the socket folder
+socket/.env
